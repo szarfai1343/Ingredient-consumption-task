@@ -16,7 +16,7 @@ This program processes time intervals from multiple contracts and generates a re
 - Merging overlapping intervals.
 - Output in formatted ISO 8601-style timestamps.
 
-📁 File: `report_generator.cpp`
+📁 File: `Report generator.cpp`
 
 ---
 
@@ -30,7 +30,7 @@ This application aggregates ingredient usage entries by rounding timestamps to f
 - Grouping and aggregating data by hour.
 - Output in neatly formatted table with unit conversions.
 
-📁 File: `ingredient_consumption.cpp`
+📁 File: `ingredient consumption task.cpp`
 
 ---
 
@@ -46,5 +46,4 @@ This application aggregates ingredient usage entries by rounding timestamps to f
 ## 📌 Notes
 
 These programs were written individually as part of a recruitment challenge and demonstrate algorithmic thinking, date/time handling, and basic reporting.  
-Feel free to use them as references or base projects for similar use cases.
 
